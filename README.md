@@ -1,0 +1,2 @@
+# arraysExercise
+for term test
